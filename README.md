@@ -1,3 +1,4 @@
+⚠️ DISCLAIMER: This project is for ethical hacking & cybersecurity education. Do not use it for unauthorized access or attacks. Every action you take is your responsibility.
 # ZENO-MB: Master Control Hub (by FM)
 
 Welcome to **ZENO-MB**, an advanced multi-function C2 (Command & Control) botnet control hub built for educational purposes. Created by **FM (Front Man)**, this tool is designed to provide a powerful yet simple interface to manage your botnet operations inside a Termux/Linux environment.
@@ -17,23 +18,20 @@ ZENO-MB is a Python-based C2 (Command & Control) panel that allows you to:
 
 🚀 **How to Run ZENO-MB**
 
-**Step 1: Start the Bot Listener**
+Step 1: Start the Bot Listener
 
 Open **Tab 1** in your Termux or terminal:
 ```bash
 python bot.py
 
 you will see something like
-
 Bot online di port 8080... Siap menerima perintah C2
  * Running on http://127.0.0.1:8080
 
 do not exit that run,if you want to attack
 
 Step 2: Open the Control Panel
-
 Swipe right to open Tab 2 (new session), then run:
-
 python3 ZENO-MB.py
 
 Now you will see the menu:
@@ -49,7 +47,5 @@ Now you will see the menu:
 
 ⚠️ Disclaimer
 This tool is built for educational and ethical hacking purposes only. Use it in lab environments or on systems you have permission to test.
-
-Respect the power you hold. Always hack responsibly.
 
 — Developed with 🔥 by FM (Front Man)

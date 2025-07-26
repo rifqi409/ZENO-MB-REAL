@@ -23,6 +23,9 @@ ZENO-MB is a Python-based C2 (Command & Control) panel that allows you to:
 
 Welcome to **ZENO-MB**, an advanced multi-function C2 (Command & Control) botnet control hub built for educational purposes. Created by **FM (Front Man)**, this tool is designed to provide a powerful yet simple interface to manage your botnet operations inside a Termux/Linux environment.
 
+screenshot 
+![Screenshot](https://github.com/rifqi409/ZENO-MB-REAL/raw/main/Screenshot_2025-07-25-22-00-55-01.jpg)
+
 🔧 **What is ZENO-MB?**  
 ZENO-MB is a Python-based C2 (Command & Control) panel that allows you to:
 - Scan for vulnerable IPs  

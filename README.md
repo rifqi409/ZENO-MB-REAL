@@ -1,4 +1,4 @@
-![Screenshot](images/file_000000006dc061f4bdda807a67c46304.png)
+![Screenshot](https://github.com/rifqi409/ZENO-MB-REAL/raw/main/file_000000006dc061f4bdda807a67c46304.png)
 https://github.com/rifqi409/ZENO-MB-REAL.git
 
 ⚠️ DISCLAIMER: This project is for ethical hacking & cybersecurity education. Do not use it for unauthorized access or attacks. Every action you take is your responsibility.
